@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bloggy</string>
+    <string name="category_image_cd">category image</string>
+    <string name="category_icon_cd">category icon</string>
 </resources>
